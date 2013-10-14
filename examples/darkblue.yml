@@ -1,0 +1,14 @@
+layout:
+  name: "darkblue"
+  authors:
+    -
+      name: "Kilian Lütkemeyer"
+      email: "kilian@luetkemeyer.com"
+  themes: 
+    default:
+      versions: ["screen", "print"]
+      icons:
+        -
+          sizes: [16,24,32]
+          prefix: "icn"
+          files: ["bin"]
